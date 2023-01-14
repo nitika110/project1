@@ -1,0 +1,14 @@
+html {
+  /* background-color: rgb(110, 115, 244); */
+}
+
+body {
+  min-height: 100vh;
+  width: 800px;
+  margin: 0 auto;
+}
+
+img {
+  height: 400px;
+  width: 400px;
+}
